@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+#getadviceBtn{
+    border: 1px solid gray;
+} 
+
+#getadviceBtn button:hover{
+    color: black !important;
+    background-color: blueviolet !important;
+} 

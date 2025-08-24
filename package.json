@@ -1,0 +1,22 @@
+{
+  "name": "random_advice",
+  "version": "1.0.0",
+  "description": "Just for random advices",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victorr105/random_advice.git"
+  },
+  "author": "Victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Victorr105/random_advice/issues"
+  },
+  "homepage": "https://github.com/Victorr105/random_advice#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.7"
+  }
+}
